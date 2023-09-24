@@ -14,7 +14,7 @@
 ### Research Objectives
 * *Calc* TCP *Rtt* in a Client Server Architecture
 * *Calc* UDP *Rtt* in a Client Server Architecture
-* Provide which Architecture is the fastest one
+* Provide which Protocol is the fastest one
 
 ### Conclusion
 TCP overhead is primarily caused by the additional control information and mechanisms it uses to ensure reliable and ordered data transmission. And this is what they call a connection.
