@@ -19,7 +19,7 @@
 ### Conclusion
 TCP overhead is primarily caused by the additional control information and mechanisms it uses to ensure reliable and ordered data transmission. And this is what they call a connection.
 
-UDP, a connectionless protocol, is faster than TCP because it doesn't establish a connection before sending data, which reduces overhead but can lead to less reliable communication.
+UDP, a connectionless protocol, is faster than TCP because it doesn't establish a connection before sending the data, which reduces overhead but can lead to less reliable communication.
 
 ### Made with
 * Java
